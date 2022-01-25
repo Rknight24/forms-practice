@@ -1,0 +1,12 @@
+.group {
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+   
+}
+
+.item {
+    flex: 1;
+    padding-left: 50px;
+
+}
